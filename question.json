@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "options": ["A) Mahatma Gandhi", "B) B.R. Ambedkar", "C) Jawaharlal Nehru", "D) Sardar Patel"],
+        "answer": "B"
+    },
+    {
+        "question": "Which river is the longest in India?",
+        "options": ["A) Ganges", "B) Brahmaputra", "C) Yamuna", "D) Godavari"],
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the Indian National Anthem?",
+        "options": ["A) Rabindranath Tagore", "B) Bankim Chandra Chatterjee", "C) Subhash Chandra Bose", "D) Sarojini Naidu"],
+        "answer": "A"
+    },
+    {
+        "question": "Which sport is the national game of India?",
+        "options": ["A) Cricket", "B) Hockey", "C) Badminton", "D) Kabaddi"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of India?",
+        "options": ["A) Dollar", "B) Rupee", "C) Yen", "D) Pound"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the official language of India?",
+        "options": ["A) English", "B) Hindi", "C) Bengali", "D) Tamil"],
+        "answer": "B"
+    },
+    {
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["A) Mahatma Gandhi", "B) Sardar Patel", "C) Jawaharlal Nehru", "D) Indira Gandhi"],
+        "answer": "C"
+    }
+]
